@@ -13,7 +13,7 @@
 
 
 Web Testing | Checklists | Jira | Android Studio | Charles |DevTools Chrome|
-- | - | - | - | - | -
+| - | - | - | - | - | - |
 Mobile Testing | Test cases | TestLink | Git, GitHub | Terminal |
 Desktop Testing | Bug Reports | Postman |Jmeter | SQL Basics |
 -----------
