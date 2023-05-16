@@ -19,10 +19,16 @@ Desktop Testing | Bug Reports | Postman |Jmeter | SQL Basics |
 -----------
 
 # <center> WORK EXPERIENCE </center>
-### ITX  (JUN 2022 - presently)
-### Trainee QA Engineer
-I play my part by ensuring quality products and I like that the company appreciates me.
+
+### VERV Digital  (MAR 2023 - presently)
+### Intern QA Engineer
 - UAT testing, functional testing
+- Web testing
+- Localization, Cross-browser, Smoke, Critical path, Regression testing, Re-testing, Ad-hoc
+- Test documentation
+
+### ITX  (JUN 2022 - FEB 2023)
+### Trainee QA Engineer
 - Web testing
 - Mobile testing
 - Localization, Cross-browser, Smoke, Critical path, Regression testing, Re-testing, Ad-hoc
